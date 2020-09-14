@@ -7,7 +7,7 @@ PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/bin:/sbin
 export PATH
 
 #获取服务器公网IP
-osip=$(curl https://api.ttt.sh/ip/qqwry/?type=txt)
+osip='no need'
 
 location=(
 		'四川 电信'
